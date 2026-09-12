@@ -6,12 +6,12 @@ Project Overview:
 This is a Java program for a Campus Service Centre System. It uses custom data structures and algorithms without using built-in Java libraries.
 
 Group Members:
-- Sakaria hipandwa 225050617
-- veiko niclause 225170175
-- ashanti ngweda 225014122 
-- ruben selma 225010208
-- lukas nghilulwa 225121603
--magnus nuumbembe 226043061  
+- Sakaria Hipandwa 225050617
+- Veiko Nicklause 225170175
+- Ashanti Ngweda 225014122 
+- Ruben Selma 225010208
+- Lukas Nghilulwa 225121603
+-  - Magnus Nuumbembe 226043061  
 
 Tasks Included:
 - Task A1: Waiting Queue
