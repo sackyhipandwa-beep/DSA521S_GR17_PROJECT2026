@@ -7,7 +7,7 @@ This is a Java program for a Campus Service Centre System. It uses custom data s
 
 Group Members:
 - Sakaria Hipandwa 225050617
-- Veiko Nicklause 225170175
+- Veiko Nicklaus 225170175
 - Ashanti Ngweda 225014122 
 - Ruben Selma 225010208
 - Lukas Nghilulwa 225121603
